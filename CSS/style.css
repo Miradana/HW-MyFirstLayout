@@ -1,0 +1,42 @@
+* {
+    Padding: 5px;
+    margin: 5px;
+}
+h1 {
+    color: black;
+    font-size: 80px;
+    font-family: 'Lobster', cursive;
+    text-align: center
+}
+p {
+    font-family: 'Lato', sans-serif;
+    color: #372357;
+    text-align: center
+}
+h2 {
+    font-family: 'Lobster', cursive;
+    font-size: 40px;
+    color: #372357;
+}
+li {
+    font-family: 'Lato', sans-serif;
+    color: #372357;
+    text-align: center;
+}
+
+.AboutMe {
+    text-align: center;
+    width: 600px;
+    padding: 20px;
+    margin: 20px;
+    display: inline-block;
+    list-style-position: inside;
+    
+}
+.ProfilePic {
+    box-align: left;
+}
+
+.top-rectangle {
+    width: 100%;
+}
